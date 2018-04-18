@@ -2,4 +2,4 @@
 
 Hi,
 
-I'm Nelu and i want to learn to be front-end web developer.
+I'm Nelu and i want to learn to be a front-end web developer.
